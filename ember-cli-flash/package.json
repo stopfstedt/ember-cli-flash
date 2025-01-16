@@ -89,7 +89,7 @@
     "rollup-plugin-copy": "^3.4.0"
   },
   "peerDependencies": {
-    "@ember/string": ">= 3.0.0",
+    "@ember/string": ">= 4.0.0",
     "@embroider/macros": "^1.13.2",
     "ember-modifier": ">= 4.0.0"
   },
